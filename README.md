@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Anton</h1>
-<h3 align="center">A 2nd Year Data Science Student at SFU I love building things that solve real problems. Whether it's analyzing data, crafting user interfaces, or diving into algorithms, I'm always eager to learn and create. When I'm not coding, you'll find me playing tennis, gaming, cooking, and going to the gym.</h3>
+<h2 align="center">Anton Florendo</h1>
+<h3 align="center">A 2nd Year Data Science Student at SFU</h3>
 
 I’m currently learning: **JavaScript, React, Python**
 
