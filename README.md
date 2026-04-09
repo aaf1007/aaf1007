@@ -44,3 +44,8 @@ currently building
   <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" alt="Claude"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini"/>
 </div>
+
+<hr>
+
+![Top Languages](https://vani-stats.vercel.app/api?username=aaf1007&theme=dark)
+
