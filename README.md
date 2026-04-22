@@ -47,5 +47,19 @@ currently building
 
 <hr>
 
+### Hackathons
+
+#### [BSCode](https://github.com/ChakornK/bscode) — SillyHacks 2026 (Rube Goldberg Track Winner)
+A web-based code editor built with **Next.js** and **Monaco Editor**, featuring an AI chat panel powered by **Google Gemini**, a Brain Rot video tab, and Subway Surfers to keep you focused while you code. [Live Demo ↗](https://bscode-alpha.vercel.app)
+
+`Next.js` `React` `Monaco Editor` `Tailwind CSS` `Google Gemini`
+
+#### [SFU CareerConnect](https://github.com/ChakornK/sfu-careerconnect) — xHacks 2026
+An AI-powered internship matching platform using **Gemini AI** and the **LinkedIn Jobs API**, ranking live postings against a user's SFU coursework and resume via a multi-phase prompt pipeline.
+
+`Next.js` `Tailwind CSS` `Gemini AI` `MongoDB` `Redis` `Google OAuth`
+
+<hr>
+
 ![Top Languages](https://vani-stats.vercel.app/api?username=aaf1007&theme=dark)
 
