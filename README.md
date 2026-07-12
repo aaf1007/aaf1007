@@ -10,7 +10,7 @@ currently building
 
 <hr>
 
-<h3>tech stack & skills</h3>
+<!-- <h3>tech stack & skills</h3>
 
 <h4>programming languages</h4>
 
@@ -45,7 +45,7 @@ currently building
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini"/>
 </div>
 
-<hr>
+<hr> -->
 
 ### Hackathons
 
@@ -59,7 +59,7 @@ An AI-powered internship matching platform using **Gemini AI** and the **LinkedI
 
 `Next.js` `Tailwind CSS` `Gemini AI` `MongoDB` `Redis` `Google OAuth`
 
-<hr>
+<!-- <hr>
 
-![Top Languages](https://vani-stats.vercel.app/api?username=aaf1007&theme=dark)
+![Top Languages](https://vani-stats.vercel.app/api?username=aaf1007&theme=dark) -->
 
