@@ -1,7 +1,7 @@
 <a href="https://emoji.gg/emoji/215459-paniccatto"><img src="https://cdn3.emoji.gg/emojis/215459-paniccatto.png" width="100px" height="100px" alt="PanicCatto"></a>
 
 i’m **Anton**, studying data science at **SFU** <br/>
-currently building 
+currently building chewey
 
 <h3>personal info</h3>
 
