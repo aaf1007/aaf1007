@@ -1,7 +1,7 @@
 <a href="https://emoji.gg/emoji/215459-paniccatto"><img src="https://cdn3.emoji.gg/emojis/215459-paniccatto.png" width="100px" height="100px" alt="PanicCatto"></a>
 
 i’m **Anton**, studying data science at **SFU** <br/>
-currently building chewey
+currently building the aide that works for you
 
 <h3>personal info</h3>
 
@@ -45,7 +45,7 @@ currently building chewey
   <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff" alt="Google Gemini"/>
 </div>
 
-<hr> -->
+<hr> 
 
 ### Hackathons
 
